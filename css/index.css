@@ -1,0 +1,37 @@
+body {
+    margin:50px 0px; padding:0px;
+    text-align:center;
+}
+
+#me {
+    height: 200px;
+
+}
+
+#name {
+    float: left;
+    position: relative;
+    padding-right: 300px;
+}
+
+#heading-text {
+    text-align:center;
+
+}
+
+hr {
+    /* display: block; */
+    height: 1px;
+    border: 0;
+    border-top: 4px solid #ccc;
+    border-color: black;
+    margin: 1em 0;
+    padding: 0;
+}
+
+#container {
+    width:600px;
+    margin:0px auto;
+    text-align:left;
+    padding:15px;
+}
