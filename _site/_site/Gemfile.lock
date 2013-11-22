@@ -1,8 +1,4 @@
 GEM
-<<<<<<< HEAD
-  remote: https://rubygems.org/
-=======
->>>>>>> master
   specs:
     RedCloth (4.2.9)
     classifier (1.3.3)
